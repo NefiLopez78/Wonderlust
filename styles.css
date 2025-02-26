@@ -81,6 +81,59 @@ table {
 .skip-to-intro:focus{
     transform: translateY(0%);
 }
+
+.skip-to-plan{
+    background: #e77e23;
+    height: 30px;
+    left: 50%;
+    padding: 8px;
+    position: absolute;
+    transform: translateY(-180%);
+    transition: transform 0.3s;
+}
+.skip-to-plan:focus{
+    transform: translateY(0%);
+}
+
+.skip-to-testimonial{
+    background: #e77e23;
+    height: 30px;
+    left: 50%;
+    padding: 8px;
+    position: absolute;
+    transform: translateY(-180%);
+    transition: transform 0.3s;
+}
+.skip-to-testimonial:focus{
+    transform: translateY(0%);
+}
+
+.skip-to-destination{
+    background: #e77e23;
+    height: 30px;
+    left: 50%;
+    padding: 8px;
+    position: absolute;
+    transform: translateY(-180%);
+    transition: transform 0.3s;
+}
+.skip-to-destination:focus{
+    transform: translateY(0%);
+}
+
+.skip-to-contact{
+    background: #e77e23;
+    height: 30px;
+    left: 50%;
+    padding: 8px;
+    position: absolute;
+    transform: translateY(-180%);
+    transition: transform 0.3s;
+}
+.skip-to-contact:focus{
+    transform: translateY(0%);
+}
+
 html {
     background-image: linear-gradient(to right, #00bfd8, #63ccbf, #9fd5ae, #d0dbaf, #f4e1c1);
 }
