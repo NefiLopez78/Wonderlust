@@ -88,11 +88,11 @@ table {
     left: 50%;
     padding: 8px;
     position: absolute;
-    transform: translateY(-400px);
+    transform: translateX(-180px);
     transition: transform 0.3s;
 }
 .skip-to-plan:focus{
-    transform: translateY(0px);
+    transform: translateX(0px);
 }
 
 .skip-to-testimonial{
