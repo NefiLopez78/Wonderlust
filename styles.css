@@ -89,12 +89,10 @@ table {
     padding: 8px;
     position: absolute;
     transform: translateY(-400px);
-    transform: translateX(-100px);
     transition: transform 0.3s;
 }
 .skip-to-plan:focus{
-    transform: translateY(0%);
-    transform: translateX(-100px);
+    transform: translateY(200px);
 }
 
 .skip-to-testimonial{
