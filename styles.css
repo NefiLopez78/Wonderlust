@@ -85,7 +85,7 @@ table {
 .skip-to-plan{
     background: #e77e23;
     height: 30px;
-    left: 75px;
+    left: 65px;
     padding: 8px;
     position: absolute;
     transform: translateY(-400px);
@@ -98,10 +98,10 @@ table {
 .skip-to-testimonial{
     background: #e77e23;
     height: 30px;
-    left: 50%;
+    left: 65px;
     padding: 8px;
     position: absolute;
-    transform: translateY(-180%);
+    transform: translateY(-400px);
     transition: transform 0.3s;
 }
 .skip-to-testimonial:focus{
@@ -111,10 +111,10 @@ table {
 .skip-to-destination{
     background: #e77e23;
     height: 30px;
-    left: 50%;
+    left: 65px;
     padding: 8px;
     position: absolute;
-    transform: translateY(-180%);
+    transform: translateY(500px);
     transition: transform 0.3s;
 }
 .skip-to-destination:focus{
@@ -124,10 +124,10 @@ table {
 .skip-to-contact{
     background: #e77e23;
     height: 30px;
-    left: 50%;
+    left: 65px;
     padding: 8px;
     position: absolute;
-    transform: translateY(-180%);
+    transform: translateY(600px);
     transition: transform 0.3s;
 }
 .skip-to-contact:focus{
