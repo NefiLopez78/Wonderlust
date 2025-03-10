@@ -92,7 +92,7 @@ table {
     transition: transform 0.3s;
 }
 .skip-to-plan:focus{
-    transform: translateY(200px);
+    transform: translateY(80px);
 }
 
 .skip-to-testimonial{
