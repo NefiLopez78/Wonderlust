@@ -114,7 +114,7 @@ table {
     left: 65px;
     padding: 8px;
     position: absolute;
-    transform: translateY(-1200px);
+    transform: translateY(-1800px);
     transition: transform 0.3s;
 }
 .skip-to-destination:focus{
