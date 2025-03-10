@@ -127,7 +127,7 @@ table {
     left: 65px;
     padding: 8px;
     position: absolute;
-    transform: translateY(-2200px);
+    transform: translateY(-1200px);
     transition: transform 0.3s;
 }
 .skip-to-contact:focus{
