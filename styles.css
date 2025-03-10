@@ -89,7 +89,6 @@ table {
     padding: 8px;
     position: absolute;
     transform: translateY(-200px);
-    transform: translateX(-50px);
     transition: transform 0.3s;
 }
 .skip-to-plan:focus{
