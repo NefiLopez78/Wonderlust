@@ -114,7 +114,7 @@ table {
     left: 65px;
     padding: 8px;
     position: absolute;
-    transform: translateY(-1800px);
+    transform: translateY(-1600px);
     transition: transform 0.3s;
 }
 .skip-to-destination:focus{
@@ -127,7 +127,7 @@ table {
     left: 65px;
     padding: 8px;
     position: absolute;
-    transform: translateY(-1600px);
+    transform: translateY(-2400px);
     transition: transform 0.3s;
 }
 .skip-to-contact:focus{
