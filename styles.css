@@ -101,7 +101,7 @@ table {
     left: 65px;
     padding: 8px;
     position: absolute;
-    transform: translateY(-800px);
+    transform: translateY(-1200px);
     transition: transform 0.3s;
 }
 .skip-to-testimonial:focus{
