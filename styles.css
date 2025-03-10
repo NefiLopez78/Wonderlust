@@ -94,6 +94,7 @@ table {
 }
 .skip-to-plan:focus{
     transform: translateY(0%);
+    transform: translateX(-100px);
 }
 
 .skip-to-testimonial{
