@@ -37,7 +37,7 @@
                 <div>
                     <picture>
                         <source media="(max-width:404px)" srcset="images/majorca-beach-square-s.jpg"/>
-                        <source media="(max-width:920px)" srcset="images/majorca-beach-vertical-m.jpg"/>
+                        <source media="(min-width:920px)" srcset="images/majorca-beach-vertical-m.jpg"/>
                         <source media="(min-width:1280px)" srcset="images/majorca-beach-horizontal-l.jpg"/>
                         <img src="images/majorca-beach-horizontal-l.jpg" alt="Majorca beach">
                     </picture>
@@ -97,15 +97,12 @@
                 Testimonials
 
                 <section>
-                    <img
-                        alt=""
-                        srcset=" 
-                            images/miranda-blake-S.png 404w,
-                            images/miranda-blake-M.png 920w,
-                            images/miranda-blake-L.png 1280w
-                        "
-                        src="images/miranda-blake-L.png"
-                    />
+                    <img src="images/miranda-blake-L.png"
+                         srcset="images/miranda-blake-S.png 404w, 
+                                 images/miranda-blake-M.png 920w,
+                                 images/miranda-blake-L.png 1280w"
+                         sizes="25vw"
+                         alt="A black and white photo of a room with windows all arounds with treadmills, benches and gym weights">
                     <!--Responsive Image for resolution switching
                         images/miranda-blake-L.png" 
                         images/miranda-blake-S.png 404w
