@@ -129,8 +129,9 @@ table {
     height: 30px;
     left: 65px;
     padding: 8px;
+    top: 0px;
     position: absolute;
-    transform: translateY(-1600px);
+    transform: translateY(-50px);
     transition: transform 0.3s;
 }
 .skip-to-contact:focus{
