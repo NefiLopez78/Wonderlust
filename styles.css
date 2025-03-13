@@ -89,7 +89,7 @@ table {
     top: 0px;
     padding: 8px;
     position: absolute;
-    transform: translateY(-200px);
+    transform: translateY(-50px);
     transition: transform 0.3s;
 }
 .skip-to-plan:focus{
@@ -100,9 +100,10 @@ table {
     background: #e77e23;
     height: 30px;
     left: 65px;
+    top: 0px;
     padding: 8px;
     position: absolute;
-    transform: translateY(-1200px);
+    transform: translateY(-50px);
     transition: transform 0.3s;
 }
 .skip-to-testimonial:focus{
@@ -114,8 +115,9 @@ table {
     height: 30px;
     left: 65px;
     padding: 8px;
+    top: 0px;
     position: absolute;
-    transform: translateY(-1600px);
+    transform: translateY(-50px);
     transition: transform 0.3s;
 }
 .skip-to-destination:focus{
